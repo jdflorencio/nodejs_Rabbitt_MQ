@@ -1,0 +1,6 @@
+{
+    "hostname": "localhost", 
+    "port": 5672,
+    "username": "rabbitmq",
+    "password": "curso"
+}
